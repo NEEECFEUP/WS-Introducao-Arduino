@@ -1,2 +1,2 @@
-# WS_Introducao_Arduino
+# WS_Introdução_Arduino
 Workshop: "Introdução ao Arduino"
